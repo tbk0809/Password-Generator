@@ -1,7 +1,7 @@
 **HOW TO RUN?**
-download the zip folder 
-open in visual studio code
-cd password generator project
-npm start/npm run dev
+1)download the zip folder 
+2)open in visual studio code
+3)cd password generator project
+4)npm start/npm run dev
 
 
